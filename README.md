@@ -1,7 +1,6 @@
 Hey, I'm Ernesto 👋 
 ===============================
-
-Machine Learning and Data Science EPFL Master Student
+Data Science EPFL Master Student
 -----------------------------------------------------
 
 I am a Master Student in Data Science and Machine Learning from EPFL, Switzerland. I am passionate about the field of Medical Machine Learning, I have done several projects using scientific libraries such as Pytorch, Scikit, Tensorflow etc. Winner of the "Best Undergraduate Project in Computer Science from Europe" at the Global Undergraduate Awards, Dublin 2022.
