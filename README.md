@@ -23,4 +23,4 @@ I am a Master Student in Data Science and Machine Learning from EPFL, Switzerlan
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/ernestoBocini"><img src="https://github-readme-stats.vercel.app/api?username=ernestoBocinis&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ernestoBocini's GitHub stats" /></a>
+<a href="https://github.com/ernestoBocini"><img src="https://github-readme-stats.vercel.app/api?username=ernestoBocini&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ernestoBocini's GitHub stats" /></a>
