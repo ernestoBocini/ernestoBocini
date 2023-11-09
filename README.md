@@ -8,8 +8,8 @@ I am a Master Student in Data Science and Machine Learning from EPFL, Switzerlan
 🧠 NeuroAI Enthusiast:
 I am deeply fascinated by the mysteries of the brain and its intricate mechanisms. My curiosity drives me to dive into the world of Computational Neuroscience, where I aim to leverage data-driven approaches to unravel the brain's hidden secrets and contribute to advancements in neuroscience research.
 
-💻 Embracing the Power of Machine Learning:
-As a fervent advocate of Machine Learning, I thrive on the challenge of leveraging data to build intelligent systems and predictive models. My expertise lies in deep learning for vision and graph neural networks, allowing me to transform raw data into actionable insights and create impactful solutions.
+💻 My Mission:
+I thrive on the challenge of leveraging data to build intelligent systems and predictive models. My expertise lies in deep learning for vision and graph neural networks, allowing me to transform raw data into actionable insights and create impactful solutions.
 
 🚀 Bridging Theory and Application:
 With a solid foundation in both theoretical knowledge and hands-on experience, I am committed to bridging the gap between research and real-world applications. Whether it's designing neural networks or analyzing neural data, I am passionate about creating tangible solutions that push the boundaries of both fields.
