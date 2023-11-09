@@ -18,7 +18,7 @@ With a solid foundation in both theoretical knowledge and hands-on experience, I
 
 * 🌍  I'm based in Lausanne, Switzerland. 
 * ✉️  You can contact me at [ernesto.bocini@epfl.ch](mailto:ernesto.bocini@epfl.ch)
-* 🎓 MSc student in Computational Science and Engineering at EPFL, Lausanne.
+* 🎓 MSc student in Data Science at EPFL, Lausanne.
 * 🎓 BSc in Mathematics and Statistics (curriculum Stats&Maths) at UniBo, Bologna.
 * 👨‍💻 Focusing on Machine Learning, Data Science, and Comptational Neuroscience.
 * ✨ Passionate about surfing, hiking and board games.
