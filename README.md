@@ -5,9 +5,7 @@ Data Science EPFL Master Student
 
 I am a Master Student in Data Science and Machine Learning from EPFL, Switzerland. I am passionate about the field of Neuro-Machine Learning, I have done several projects using scientific libraries such as Pytorch, Scikit, Tensorflow etc. Winner of the "Best Undergraduate Project in Computer Science from Europe" at the Global Undergraduate Awards, Dublin 2022.
 
-Passionate about Machine Learning and Computational Neuroscience, I am driven by the endless possibilities of merging cutting-edge technology with our understanding of the brain's complex processes. With a background in mathematics and data science, I am committed to exploring innovative solutions at the intersection of these dynamic fields.
-
-🧠 Computational Neuroscience Enthusiast:
+🧠 NeuroAI Enthusiast:
 I am deeply fascinated by the mysteries of the brain and its intricate mechanisms. My curiosity drives me to dive into the world of Computational Neuroscience, where I aim to leverage data-driven approaches to unravel the brain's hidden secrets and contribute to advancements in neuroscience research.
 
 💻 Embracing the Power of Machine Learning:
